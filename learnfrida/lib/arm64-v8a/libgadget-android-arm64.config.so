@@ -1,0 +1,7 @@
+{
+  "interaction": {
+    "type": "script-directory",
+    "path": "data/local/frida/scripts",
+    "on_change": "rescan"
+  }
+}
